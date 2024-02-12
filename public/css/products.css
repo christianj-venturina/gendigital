@@ -1,0 +1,55 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(
+        to top right,
+        #6eebe9 20%,
+        #d5d8d6,
+        #ffffff
+    );
+    background-attachment: fixed;
+    font-family: "Poppins", sans-serif;
+    color: #191919;
+}
+#header {
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.col-lg-2 a {
+    text-decoration: none;
+    color: #191919;
+}
+.col-lg-2 li {
+    margin-bottom: 15px;
+}
+ul {
+    list-style-type: none;
+}
+#socials img {
+    width: 35px;
+}
+#footer_row {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col-lg-4 img {
+    transition: transform 0.4s ease-in-out;
+}
+.col-lg-4:hover img {
+    transform: scale(1.1);
+}
+hr {
+    color: #90a9b3;
+}
+#edit_profile {
+    color: #191919;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+}

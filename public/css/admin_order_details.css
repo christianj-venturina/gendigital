@@ -1,0 +1,16 @@
+body {
+    font-family: "Poppins", sans-serif;
+    color: #191919;
+}
+#gt_row {
+    border-color: transparent;
+}
+#header {
+    margin-top: 60px;
+}
+#order_summary {
+    margin-top: 60px;
+}
+td {
+    vertical-align: middle;
+}

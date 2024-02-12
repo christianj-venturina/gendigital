@@ -1,0 +1,15 @@
+body {
+    background-color: #feffff;
+    font-family: "Poppins", sans-serif;
+    color: #191919;
+}
+input {
+    width: 400px;
+}
+td {
+    padding-top: 20px;
+}
+#form_div {
+    margin-top: 80px;
+    padding-bottom: 20px;
+}

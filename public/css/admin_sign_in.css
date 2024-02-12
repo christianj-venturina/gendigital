@@ -1,0 +1,23 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #feffff;
+  font-family: "Poppins", sans-serif;
+  color: #191919;
+}
+#header {
+  font-weight: bold;
+}
+#sign_in {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #191919;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 25px;
+}
+#sign_in_div {
+  margin-bottom: 100px;
+}

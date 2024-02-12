@@ -1,0 +1,63 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(
+        to top right,
+        #6eebe9 20%,
+        #d5d8d6,
+        #ffffff
+    );
+    background-attachment: fixed;
+    font-family: "Poppins", sans-serif;
+    color: #191919;
+}
+hr {
+    color: #90a9b3;
+}
+.col-lg-2 a {
+    text-decoration: none;
+    color: #191919;
+}
+.col-lg-2 li {
+    margin-bottom: 15px;
+}
+ul {
+    list-style-type: none;
+}
+#socials img {
+    width: 35px;
+}
+#footer_row {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#header {
+    font-weight: bold;
+}
+#sign_in {
+    text-decoration: none;
+    color: #191919;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+    border: none;
+}
+#register {
+    text-decoration: none;
+    color: #191919;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+}
+#sign_in_div {
+    margin-bottom: 100px;
+}
+#buttons_div {
+    margin-top: 55px;
+}
